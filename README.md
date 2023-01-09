@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattGibbard
-- 👀 I’m interested in gamedev, unity, webdev, javascript and node
-- 🌱 I’m currently learning unity and javascript
+- 👀 I’m interested in gamedev, godot, webdev, javascript and node
+- 🌱 I’m currently learning Godot and Javascript
 - 💞️ I’m looking to collaborate on a small learning project
 - 📫 Reach me via direct message or at @MattGibbard on Twitter
 
